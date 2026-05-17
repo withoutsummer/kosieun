@@ -1,7 +1,6 @@
 ## 💁🏻‍♀️ Intro
 
 안녕하세요👋🏻
-저는 온기 있는 기술로 더 나은 사용자의 경험을 만드는 개발자 고시은입니다.  
 
 ---
 
@@ -54,12 +53,5 @@
 [![Tistory](https://img.shields.io/badge/Tistory-000000?style=flat&logo=Tistory&logoColor=white)](https://sieun1156.tistory.com)  
 [![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=flat&logo=Gmail&logoColor=white)](mailto:kosieun1156@gmail.com)
 
----
 
-## 🏅 Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=withoutsummer&show_icons=true&theme=radical&cache_seconds=86400)
-
-[![Solved.ac
-프로필](http://mazassumnida.wtf/api/mini/generate_badge?boj=sieun1156)](https://solved.ac/sieun1156)
 
